@@ -123,9 +123,3 @@ Translation contributors:
 
 * <a href="https://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/">How to uninstall built-in photos app in Windows 10</a>
 * <a href="https://github.com/tibold/svg-explorer-extension/">Extension module for Windows Explorer to render SVG thumbnails</a>
-
-## 🧰 Other great apps:
-
-* <a href="https://github.com/ModuleArt/quick-color-picker/">Quick Color Picker</a> - Lightweight desktop color picker and color editor utility for Windows.<br>
-* <a href="https://github.com/ModuleArt/quick-screen-recorder/">Quick Screen Recorder</a> - Lightweight desktop screen recorder for Windows.<br>
-* <a href="https://github.com/ModuleArt/quick-whiteboard/">Quick Whiteboard</a> - Lightweight tool to draw or keep notes on your desktop background for Windows.
